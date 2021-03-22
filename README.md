@@ -2,4 +2,5 @@ Projekt jest złożony z dwóch programów: pierwszy symuluje działanie produce
 Producent przesyła dane jednocześnie do wielu klientów, do czego wykorzystuje protokół TCP/IP.
 
 wykorzystany język: C
+
 system operacyjny: Linux
